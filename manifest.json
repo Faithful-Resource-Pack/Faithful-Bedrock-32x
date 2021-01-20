@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A default-style 32x resource pack for Minecraft: Java Edition.",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "Compliance-32x-Alpha-6",
+    "uuid": "de02e23d-bcb6-4a97-91e0-bca58ff72655",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "A default-style 32x resource pack for Minecraft: Java Edition.",
+      "type": "resources",
+      "uuid": "77c8bb14-af71-4f8d-8109-aaad0dfa827d",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
