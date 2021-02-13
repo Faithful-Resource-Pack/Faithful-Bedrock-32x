@@ -7,8 +7,8 @@
       16,
       20
     ],
-    "name": "Compliance 32x Beta 1",
-    "uuid": "b1e8298b-f129-40e3-9b52-3fe12ce21177",
+    "name": "Compliance 32x Beta 2",
+    "uuid": "dd06f26f-bedc-4997-92d5-83e870318e1c",
     "version": [
       0,
       0,
@@ -19,7 +19,7 @@
     {
       "description": "A default-style 32x resource pack for Minecraft: Bedrock Edition.",
       "type": "resources",
-      "uuid": "f322af4e-8078-4fad-9adc-4c8b382420a4",
+      "uuid": "f1e6f518-2077-4e89-909e-4eceb09e73a3",
       "version": [
         0,
         0,
