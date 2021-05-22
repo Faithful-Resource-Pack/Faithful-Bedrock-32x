@@ -29,7 +29,7 @@
   ],
   "metadata": [
     {
-      "authors": "Compliance Team",
+      "authors": [ "Compliance Team" ],
       "license": "https://compliancepack.net/license",
       "url": "https://compliancepack.net/"
     }
