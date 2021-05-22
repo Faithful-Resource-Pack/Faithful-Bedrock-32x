@@ -16,11 +16,9 @@
     ]
   },
   "metadata": {
-    {
       "authors": [ "Compliance Team" ],
       "license": "https://compliancepack.net/license",
       "url": "https://compliancepack.net/"
-    }
 },
   "modules": [
     {
