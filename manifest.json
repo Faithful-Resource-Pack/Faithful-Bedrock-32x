@@ -4,14 +4,14 @@
     "description": "A default-style 32x resource pack for Minecraft: Bedrock Edition.",
     "min_engine_version": [
       1,
-      16,
-      20
+      17,
+      0
     ],
-    "name": "Compliance 32x Beta 9",
+    "name": "Compliance 32x Beta 11",
     "uuid": "7a8a1c33-b997-4200-ae27-a1aa1a9a7a11",
     "version": [
       0,
-      9,
+      11,
       0
     ]
   },
