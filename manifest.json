@@ -1,14 +1,14 @@
 {
   "format_version": 2,
   "header": {
-    "description": "A default-style 32x resource pack for Minecraft: Bedrock Edition.",
+    "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
     "min_engine_version": [
       1,
       17,
       0
     ],
-    "name": "Compliance 32x Beta 20",
-    "uuid": "7f6a438c-2b63-443c-afe0-e6f15728f7be",
+    "name": "Faithful 32x",
+    "uuid": "7593f48c-8e53-4d84-884e-8bae4a509ada",
     "version": [
       0,
       11,
@@ -16,15 +16,15 @@
     ]
   },
   "metadata": {
-      "authors": [ "Compliance Team" ],
-      "license": "https://compliancepack.net/license",
-      "url": "https://compliancepack.net/"
+      "authors": [ "Vattic & Faithful Team" ],
+      "license": "https://faithfulpack.net/license",
+      "url": "https://faithfulpack.net/"
 },
   "modules": [
     {
-      "description": "A default-style 32x resource pack for Minecraft: Bedrock Edition.",
+      "description": "The go-to 32x texture pack for Minecraft. Now for Bedrock Edition.",
       "type": "resources",
-      "uuid": "f51f5572-0b0e-4d98-9b06-753a9cf51702",
+      "uuid": "bd578b98-ffb5-4405-acbf-35ad52d6f603",
       "version": [
         0,
         0,
