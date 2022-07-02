@@ -20,5 +20,5 @@ jobs:
         script: |
           cd "./packs/Faithful-Bedrock-32x"
           git pull
-          zip -r Faithful-Bedrock-32x-1.19-Experimental.zip . -x "*.git*" -x "*.github*" -x ".gitignore" -x "README.md"
-          mv Faithful-Bedrock-32x-1.19-Experimental.zip "/var/www/html/database.faithfulpack.net/packs/32x-Bedrock/Experimental"
+          zip -r Faithful-Bedrock-32x-1.19-Experimental.mcpack . -x "*.git*" -x "*.github*" -x ".gitignore" -x "README.md"
+          mv Faithful-Bedrock-32x-1.19-Experimental.mcpack "/var/www/html/database.faithfulpack.net/packs/32x-Bedrock/Experimental"
