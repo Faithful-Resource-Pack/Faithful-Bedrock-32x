@@ -1,0 +1,48 @@
+{
+   "format_version" : [ 1, 1, 0 ],
+   "leaves" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      }
+   },
+   "leaves2" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      }
+   },
+   "obsidian" : {
+      "isotropic" : false
+   },
+   "red_sandstone" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      }
+   },
+   "red_sandstone_stairs" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      }
+   },
+   "sandstone" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      }
+   },
+   "sandstone_stairs" : {
+      "isotropic" : {
+         "down" : false,
+         "up" : false
+      }
+   },
+   "hardened_clay" : {
+      "isotropic" : false
+   },
+   "stained_hardened_clay" : {
+      "isotropic" : false
+   }
+}
