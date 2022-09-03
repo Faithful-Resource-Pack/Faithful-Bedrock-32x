@@ -44,5 +44,11 @@
    },
    "stained_hardened_clay" : {
       "isotropic" : false
+   },
+   "glowstone" : {
+      "isotropic" : false
+   },
+   "magma" : {
+      "isotropic" : false
    }
 }
