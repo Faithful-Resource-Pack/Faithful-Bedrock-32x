@@ -9,9 +9,9 @@
         "enchanted": "entity_alphatest_glint"
       },
       "textures": {
-        "default": "textures/items/sugar_cane",
+        "default": "textures/items/reeds",
         "enchanted": "textures/misc/enchanted_item_glint",
-        "item": "textures/items/sugar_cane"
+        "item": "textures/items/reeds"
       },
       "geometry": {
         "default": "geometry.item_size"
