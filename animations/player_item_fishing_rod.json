@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player_item_fishing_rod.first_person_hold_fishing_rod": {
+			"loop": true,
+			"animation_length": 10,
+			"bones": {
+				"root_item": {
+					"rotation": [157.72407, 11.36079, -303.85514],
+					"position": [11, 15, 8],
+					"scale": [1.2, 1.2, 1.1]
+				}
+			}
+		},
+		"animation.player_item_fishing_rod.third_person_hold_fishing_rod": {
+			"loop": true,
+			"animation_length": 10,
+			"bones": {
+				"root_item": {
+					"rotation": [89.08009, 50.71706, 89.88322],
+					"position": [-0.5, 17, -2],
+					"scale": 0.95
+				}
+			}
+		}
+	}
+}

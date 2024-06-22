@@ -1,0 +1,35 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:music_disc_11",
+      "render_controllers": ["controller.render.item_default"],
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "default": "textures/items/record_11",
+        "enchanted": "textures/misc/enchanted_item_glint",
+        "item": "textures/items/record_11"
+      },
+      "geometry": {
+        "default": "geometry.item_size"
+			},
+			"animations": {
+				"first_person_hold": "animation.player_item.first_person_hold",
+				"third_person_hold": "animation.player_item.third_person_hold"
+			},
+			"scripts": {
+				"animate": [
+					{
+						"first_person_hold": "c.is_first_person"
+					},
+					{
+						"third_person_hold": "!c.is_first_person"
+					}
+				]
+			}
+		}
+	}
+}

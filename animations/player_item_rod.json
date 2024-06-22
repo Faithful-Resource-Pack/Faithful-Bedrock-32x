@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player_item_rod.first_person_hold_rod": {
+			"loop": true,
+			"animation_length": 10,
+			"bones": {
+				"root_item": {
+					"rotation": [26.00919, 3.0841, -161.57767],
+					"position": [-1, 27, 10],
+					"scale": [1.2, 1.2, 1.1]
+				}
+			}
+		},
+		"animation.player_item_rod.third_person_hold_rod": {
+			"loop": true,
+			"animation_length": 10,
+			"bones": {
+				"root_item": {
+					"rotation": [89.0273, 53.21672, 89.81621],
+					"position": [0.5, 15, -3],
+					"scale": 0.95
+				}
+			}
+		}
+	}
+}
