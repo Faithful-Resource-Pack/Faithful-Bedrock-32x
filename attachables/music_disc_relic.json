@@ -9,9 +9,9 @@
         "enchanted": "entity_alphatest_glint"
       },
       "textures": {
-        "default": "textures/items/record_relic",
+        "default": "textures/items/music_disc_relic",
         "enchanted": "textures/misc/enchanted_item_glint",
-        "item": "textures/items/record_relic"
+        "item": "textures/items/music_disc_relic"
       },
       "geometry": {
         "default": "geometry.item_size"
