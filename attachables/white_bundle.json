@@ -9,9 +9,9 @@
         "enchanted": "entity_alphatest_glint"
       },
       "textures": {
-        "default": "textures/items/white_bundle",
+        "default": "textures/items/bundle_white",
         "enchanted": "textures/misc/enchanted_item_glint",
-        "item": "textures/items/white_bundle"
+        "item": "textures/items/bundle_white"
       },
       "geometry": {
         "default": "geometry.item_size"
