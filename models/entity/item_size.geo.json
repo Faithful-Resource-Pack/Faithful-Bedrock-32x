@@ -14,12 +14,13 @@
 				{
 					"name": "root_item",
 					"pivot": [0, 0, 0],
+					"rotation": [0, 87.5, 0],
 					"binding": "q.item_slot_to_bone_name(context.item_slot)",
 					"texture_meshes": [
 						{
 							"texture": "default",
-							"position": [0, -7, 3],
-							"rotation": [-90, 0, 0],
+							"position": [-8, -7, 3],
+							"rotation": [0, 90, -90],
 							"local_pivot": [9, -2, 9],
 							"scale": [1, 2, 1]
 						}
